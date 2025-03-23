@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a computer engineering student at Politecnico di Torino.<br>I live in Turin, Italy.<br>I'm currently learning C, SQL and Linux at my university classes.
+I'm a computer engineering student at Politecnico di Torino.<br>I live in Turin, Italy.<br>I'm currently learning C, SQL, Java and Linux at my university classes.
 
 
 ## 🌐 Socials:
